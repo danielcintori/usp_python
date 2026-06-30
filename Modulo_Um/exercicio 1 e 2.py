@@ -117,4 +117,12 @@ while True:
 
 print("\nObrigado e até mais!")
 
+# Estrutura de básicas de entrada e saída 
 
+# Cuidado com palabvras resrevdasd como list, set, print, etc.
+
+# print Hello world 
+
+# print('Hello world!')
+
+print('teste yoo')
